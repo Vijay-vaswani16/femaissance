@@ -12,8 +12,6 @@ Femaissance
 
 [_Project link_](https://femaissance.netlify.app/)
 
-[_Video link_](https://youtu.be/ivAm5EFq1y0)
-
 
 ## About Femaissance
 
@@ -180,11 +178,6 @@ Our platform is looking forward to include the features of
 
 ## Team Members
 
-- [Jaydip Dey](https://github.com/jaydip1235)
-- [Archan Banerjee](https://github.com/ArchanJS)
-- [Anshika Agrawal](https://github.com/AnshikaAgrawal5501)
-- [Devsi Singh](https://github.com/emily876)
-- [Disha Musib](https://www.linkedin.com/in/disha-musib-ab0921226)
 
 
 ## Support
