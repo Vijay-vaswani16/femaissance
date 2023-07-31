@@ -1,9 +1,4 @@
-# hack4women
-## Problem statement 
-Come up with a solution for women in rural and urban area.
-
-## Our solution
-Femaissance
+# Femaissance
 
 <p align="center">
     <img src='./client/public/images/navimg.png' width="300px" />
